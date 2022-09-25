@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grades</title>
     @if(env('APP_ENV') == 'production')
-        <link href="https://cdn.statically.io/gh/irfanhkm/tk-1-streaming-app/fae1da95/public/css/app.css" rel="stylesheet">
+        <link href="https://cdn.statically.io/gh/irfanhkm/tk-2-grades/ffafee97/public/css/app.css" rel="stylesheet">
     @else
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     @endif
